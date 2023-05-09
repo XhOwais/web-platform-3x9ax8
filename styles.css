@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+/* page-3 */
+.main-3{
+  width: 100vw;
+  height: auto;
+  background-color: black;
+  color: #FFFFFF;
+}
+.album-cover-3{
+  width: 80vw;
+  height: 24rem;
+  background-color: aqua;
+  background-image: url();
+}
